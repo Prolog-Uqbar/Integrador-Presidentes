@@ -6,7 +6,7 @@
 
 ![](presidentes.jpg)
 
-### Los presidentes
+### 1) Los presidentes
 Se cuenta con informacion acerca de los períodos presidenciales. Se conoce el nombre del presidente, la fecha de inico y la fecha de finalización, ambas con día mes y año.  Si un presidente fue electo en más de una ocasión se encuentra la información de cada uno de sus períodos
 
 Por ejemplo
@@ -18,13 +18,13 @@ Puerta: 21/12/2001 - 23/12/2001
 
 Se quiere averiguar: 
 
-1. Quiénes fueron presidente por más de un período (sin importar si fueron sucesivos o no)
+a. Quiénes fueron presidente por más de un período (sin importar si fueron sucesivos o no)
 (Menem)
 
-2. En una fecha dada, quién era el presidente.
+b. En una fecha dada, quién era el presidente.
 (22/12/2001?  Puerta)
 
-### Acciones de gobierno
+### 2) Acciones de gobierno
 Se conocen las acciones de gobierno que se realizan. De cada una de ellas se conoce una  descripción que identifica al suceso, la fecha en la que se produjo, el lugar y la cantidad de gente beneficiada. Las acciones que benefician a más de 10000 personas se consideran buenas. 
 
 *Por ejemplo*
@@ -33,19 +33,19 @@ Se conocen las acciones de gobierno que se realizan. De cada una de ellas se con
 * Privatización de YPF: 3/5/1992. Campana. 1 beneficiario: repsol.
 
 Se quiere saber
-1. Si un determinado acto de gobierno fue bueno. 
+a. Si un determinado acto de gobierno fue bueno. 
 (el juicio a las juntas? Si -  La hiper? No)
 
-2. Si un presidente hizo algo bueno, es decir, si en alguno de sus periodos de gobierno hizo alguna accion de gobierno que se considere buena. 
+b. Si un presidente hizo algo bueno, es decir, si en alguno de sus periodos de gobierno hizo alguna accion de gobierno que se considere buena. 
 (Alfonsin? Si - Menem? No - Puerta? No)
 
-### Calificación de presidentes 
+### 3) Calificación de presidentes 
 Calificar a los presidentes con las siguientes categorias:
-1. Insulso. En su período no hizo nada. (Puerta)
-2. Malo. Hizo cosas, pero nada bueno. (Menem)
-3. Regular. En todos sus períodos hizo al menos una cosa buena (Alfonsín)
-4. Bueno. Tuvo al menos un período en el que hizo cosas y todo lo que hizo en ese período fue bueno. 
-5. Muy bueno. En todos los periodos en los que estuvo hizo cosas y todas las cosas que hizo en cada período fueron buenas.
+* Insulso. En su período no hizo nada. (Puerta)
+* Malo. Hizo cosas, pero nada bueno. (Menem)
+* Regular. En todos sus períodos hizo al menos una cosa buena (Alfonsín)
+* Bueno. Tuvo al menos un período en el que hizo cosas y todo lo que hizo en ese período fue bueno. 
+* Muy bueno. En todos los periodos en los que estuvo hizo cosas y todas las cosas que hizo en cada período fueron buenas.
 
 **Importante**
 Modelar la base de conocimiento y poner algunos hechos de ejemplo. 
